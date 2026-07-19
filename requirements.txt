@@ -1,0 +1,13 @@
+requests
+PyGithub
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+gitpython
+pylint
+radon
+bandit
+tqdm
+python-dotenv

@@ -1,0 +1,5 @@
+[project]
+name = "crscore-framework"
+version = "0.1.0"
+description = "CRScore Research Project"
+requires-python = ">=3.13"

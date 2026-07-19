@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Downloaded repositories
+repos/
+
+# Generated datasets
+data/raw/
+data/processed/
+
+# IDE files
+.vscode/
